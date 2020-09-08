@@ -18,22 +18,25 @@ Navigate to the `sql/connections.js` file and alter the following fields to refl
 These will be the same credentials we used to set up a connection in MySQL Workbench.
 
 Finally, in MySQL Workbench, run the `initialize.sql` script (on the "admin" database) that is included in this project.
+**DONE**
 
 ## Overview
 
 This app is the completed version of the assignment from last class.
 
-The basic setup, routes/controllers, SQL statements and authentication has been done for us. Our job is simply to deploy the application. 
+The basic setup, routes/controllers, SQL statements and authentication has been done for us. Our job is simply to deploy the application.
 
 _Keep in mind that your port (4001) may be different when running the application_
 
 ## Get familiar with the system
 
-Look in the routes/controllers files and get a feel for what the system is doing. Run the `npm run start:dev` command so that we can test our application and use Postman to become familiar with the different routes that are available. We will do this same run-through once the application is deployed to Google Cloud. 
+Look in the routes/controllers files and get a feel for what the system is doing. Run the `npm run start:dev` command so that we can test our application and use Postman to become familiar with the different routes that are available. We will do this same run-through once the application is deployed to Google Cloud.
+**DONE**
 
 ## Deployment Steps
 
 There are a few actions we need to take with our Google Cloud accounts before we can deploy the app. A lot of it will be one-time setup. After that's complete we will be ready to deploy our application.
+**DONE**
 
 ### Create App Engine instance
 _This is a one-time setup step_
